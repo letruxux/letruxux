@@ -1,7 +1,5 @@
 ### Heyo 👋
 
-```
-"Currently_learning" = ["Python", "Luau"],
+**Currently learning**: Python and Luau.
 
-"Prefer_making" = ["DiscordBots", "Console stupid games"]
-```
+**I prefer making**: Discord bots and stupid console games.
