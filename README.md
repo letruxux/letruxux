@@ -2,4 +2,4 @@
 
 **Currently learning**: Python and (not much) Luau.
 
-**I prefer making**: Discord bots and stupid console games.
+**I like making**: Discord bots and stupid console games.
