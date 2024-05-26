@@ -1,4 +1,4 @@
-REM irm https://raw.githubusercontent.com/letruxux/letruxux/main/ts-setup.ps1 | iex
+# irm https://raw.githubusercontent.com/letruxux/letruxux/main/ts-setup.ps1 | iex
 
 # Create src directory
 New-Item -ItemType Directory -Path "src" -Force
