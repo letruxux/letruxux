@@ -1,2 +1,2 @@
 # Heyo 👋
-<img src="https://go-skill-icons.vercel.app/api/icons?perline=7&i=html%2Ccss%2Cjs%2Cts%2Cpy%2Clua%2Cmd%2Cnodejs%2Cdiscordjs%2Cbootstrap%2Cnextjs%2Creact%2Ctailwind%2Cexpress%2Cdjango%2Cflask%2Cgit%2Cgithub%2Cdocker%2Cmatplotlib%2Cmongodb%2Cnpm%2Copencv%2Cqt%2Cregex%2Creplit%2Crobloxstudio%2Csqlite%2Cvscode%2Cstackoverflow%2Cdiscord%2Ctwitter%2Cinstagram%2Cgmail%2Cnotion%2Cpowershell%2Cbots%2Cplaywright%2Cselenium"/>
+<img src=https://skillicons.dev/icons?i=js%2Cts%2Cpy%2Clua%2Cexpress%2Cflask%2Cdiscordjs%2Creact%2Cnextjs%2Cvercel%2Ctailwind%2Cgit%2Cmongodb%2Cnodejs%2Crobloxstudio%2Cvscode&perline=6"/>
