@@ -1,5 +1,5 @@
 # Heyo 👋
-<img src="https://skillicons.dev/icons?perline=9&i=ts%2Cbun%2Ctailwind%2Creact%2Cdiscordjs%2Cexpress%2Cpy%2Cflask%2Cselenium%2Cdocker%2Cgit%2Clua"/>
+<img src="https://skillicons.dev/icons?perline=9&i=ts%2Cbun%2Ctailwind%2Creact%2Cdiscordjs%2Cexpress%2Cpy%2Cflask%2Cgit"/>
 
 <a href="https://letruxux.vercel.app"><strong>ℹ️ More about me</strong></a>
 
