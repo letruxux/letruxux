@@ -2,9 +2,7 @@
 
 [![Top Langs](https://github-readme-stats-dun-six-48.vercel.app/api/top-langs/?username=letruxux&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Now working on:
-
-## [Taps](https://taps-app.com)
+## [Now working on Taps](https://taps-app.com)
 
 <a href="https://taps-app.com">
   <img src="https://fstkcqbdhbozrnblcyyl.supabase.co/storage/v1/object/public/public-images/banner.png" alt="Taps banner" style="width: 50%;" />
