@@ -5,6 +5,6 @@
 
 ### Now learning
 * **React Native**
-* Health Connect API (ex. Google Fit)
+* Health Connect API
 * HealthKit API
 
