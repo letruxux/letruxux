@@ -7,4 +7,4 @@
 * **React Native**
 * Health Connect API
 * HealthKit API
-
+* Tauri (i hate rust)
